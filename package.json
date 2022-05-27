@@ -2,7 +2,7 @@
   "name": "first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://srotasouls.github.io/first-react-app",
+  "homepage": "https://SrotalinaSwain/first-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
