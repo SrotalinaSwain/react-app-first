@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Steps:
+         Steps to deploy app on gh pages:
          1. npm install gh-pages --save-dev
 
          2.Add properties to package.json file.
